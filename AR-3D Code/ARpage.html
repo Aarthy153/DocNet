@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anatomy</title>
+    
+    <!-- Import the component -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    <script nomodule src ="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+</head>
+<style>
+    *{
+        margin : 0;
+        padding : 0;
+        
+
+    }
+    
+    .modelsdisplay{
+        height: 100vh;
+        width: 100%;
+
+        --gap: 16px;
+        --num-cols: 4;
+        --row-height: 600px;
+
+        box-sizing: border-box;
+        padding: var(--gap);
+
+        display: grid;
+        grid-template-columns: repeat(var(--num-cols), 1fr);
+        grid-auto-rows: var(--row-height);
+        gap: var(--gap);
+    }
+    .modelsdisplay model-viewer{
+        width: 100%;
+        height: 100%;
+        background-color: black;
+    }
+    h1{
+        text-align: center;
+        font-size: larger;
+        font-style: bold;
+        font-family :Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+</style>
+<br>
+<br>
+<h1>Experience an AR effect with DocNet's Anatomy 3D Models </h1>
+<br>
+
+
+
+<body>
+    <div class = modelsdisplay>
+
+        <model-viewer alt src="Assests/heart.glb" auto-rotate camera-controls><button>Human Heart</button></model-viewer>
+        <model-viewer alt src="Assests/kidney.glb" auto-rotate camera-controls><button>Human Kidney</button></model-viewer>
+        <model-viewer alt src="Assests/liver.glb" auto-rotate camera-controls><button>Human Liver</button></model-viewer>
+        <model-viewer alt src="Assests/endosonographie_darstellung_der_leber.glb" auto-rotate camera-controls><button>Human Endocrine System</button></model-viewer>
+        <model-viewer alt src="Assests/female_human_skeleton_-_zbrush_-_anatomy_study.glb" auto-rotate camera-controls><button>Female Skeleton</button></model-viewer>
+        <model-viewer alt src="Assests/brain.glb" auto-rotate camera-controls><button>Human Brain</button></model-viewer>
+        <model-viewer alt src="Assests/human_skull.glb" auto-rotate camera-controls><button>Human Skull</button></model-viewer>
+        <model-viewer alt src="Assests/stomach.glb" auto-rotate camera-controls><button>Human Stomach</button></model-viewer>
+        <model-viewer alt src="Assests/respiratory_system.glb" auto-rotate camera-controls><button>Human Respiratory system</button></model-viewer>
+        <model-viewer alt src="Assests/small_and_large_intestine.glb" auto-rotate camera-controls><button>Human Intestines</button></model-viewer>
+        <model-viewer alt src="Assests/excretory_system.glb" auto-rotate camera-controls><button>Human Excretory system</button></model-viewer>
+        <model-viewer alt src="Assests/female_reproductive_organs-x_section.glb" auto-rotate camera-controls><button>Uterus</button></model-viewer>
+
+
+
+
+    </div>
+</body>
+</html>
