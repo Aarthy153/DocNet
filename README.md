@@ -1,7 +1,10 @@
 # DocNet
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Aarthy%20Ramesh-red)
+
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Aakash%20Raja-red)
+
 Team : 4.0 Slayers
+
 Software Engineering approach : Pair Programming (Agile)
 
 # PROBLEM STATEMENT
