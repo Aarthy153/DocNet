@@ -1,11 +1,15 @@
 # DocNet
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Aarthy%20Ramesh-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Aakash%20Raja-red)
+Team : 4.0 Slayers
+Software Engineering approach : Pair Programming (Agile)
 
 # PROBLEM STATEMENT
 A system for doctors, patients and hospitals which emphasizes on standard disease predictions, hospital improvement, automation assistance, updating equipment, donor management, BioInformatics and Anatomy modelling.
 
 # KG HACKFEST'22
 * The DocNet project has bagged the runners up title at the district level hackathon KG Hackfest'22.
-* The approach which was used to create the project was Extreme Programming methodology. 
+* The approach which was used to create the project was Pair Programming methodology. 
 * The project was created in a stipulated time. The requirements were gathered, work were seperated and then we began constructing the solution. 
 * The project was subjected to a basic level of black box testing.
 
