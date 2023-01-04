@@ -77,3 +77,27 @@ Our DocNet platform technologically solves the difficulties with the below featu
 * Improving the Datasets
 * Cybersecurity Integration for patient access
 
+# CURRENT STATUS
+
+* The entire project is not hosted completely, but sub-modules/features are hosted temporatily until we integrate every 4.0 technology in to the web application. 
+* The links can be reffered here: 
+
+https://aarthy153-dna-app-docnet-dna-app-v8wzyu.streamlit.app/
+
+https://aakash67-disease-prediction-mdps-public-a0jf18.streamlit.app/
+
+http://docnetforum.epizy.com/
+
+# PRESENTATION 
+
+https://docs.google.com/presentation/d/1z73bTGzLxwxEP7CGlIXbWLPq59meJiP0QY3oW6cYRL8/edit#slide=id.g1c316998106_0_15
+
+# VIDEO DEMO 
+
+https://www.youtube.com/watch?v=_giJ2eMDV-o
+
+# CONTRIBUTORS
+
+Aakash R | Naresh Chanthar G
+
+
