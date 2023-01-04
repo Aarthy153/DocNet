@@ -21,8 +21,9 @@ A system for doctors, patients and hospitals which emphasizes on standard diseas
 * Web Frontend Frameworks - HTML , CSS, Javascript
 * Backend Frameworks - sqlite db, django framework
 * Streamlit server 
+* WordPress, Gutenberg plugin & wpforo plugin
 * 3D Modelling - AR Based - Blender (glb files)
-* Blockchain - EHR on Etherum (Working currently)
+* Blockchain - EHR on Ethereum (Work In Progress)
 
 
 # WHY DOCNET? 
