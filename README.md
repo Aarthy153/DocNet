@@ -98,6 +98,6 @@ https://www.youtube.com/watch?v=_giJ2eMDV-o
 
 # CONTRIBUTORS
 
-Aakash R | Naresh Chanthar G
+Aarthy R| Aakash R | Naresh Chanthar G
 
 
